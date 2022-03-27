@@ -1,0 +1,130 @@
+[
+
+{"_id":"0",
+ "mountain_id":"0",
+ "name": "Krcmar",
+ "length_km": "2.2",
+ "rating": "9.9",
+ "color": "black"
+},
+
+{"_id":"1",
+ "mountain_id":"0",
+ "name": "Crvena duboka",
+ "length_km": "1.4",
+ "rating": "9.3",
+ "color": "red"
+},
+
+{"_id":"2",
+ "mountain_id":"0",
+ "name": "Karaman greben",
+ "length_km": "1.2",
+ "rating": "8.9",
+ "color": "blue"
+},
+
+{"_id":"3",
+ "mountain_id":"0",
+ "name": "Suncana dolina",
+ "length_km": "0.9",
+ "rating": "7.6",
+ "color": "blue"
+},
+
+{"_id":"4",
+ "mountain_id":"0",
+ "name": "Bela reka",
+ "length_km": "1.7",
+ "rating": "8.3",
+ "color": "black"
+},
+
+{"_id":"5",
+ "mountain_id":"0",
+ "name": "Gvozdac",
+ "length_km": "1.5",
+ "rating": "7.7",
+ "color": "black"
+},
+
+{"_id":"6",
+ "mountain_id":"0",
+ "name": "Gobelja",
+ "length_km": "0.8",
+ "rating": "7.5",
+ "color": "red"
+},
+
+{"_id":"7",
+ "mountain_id":"1",
+ "name": "Poljice",
+ "length_km": "1.7",
+ "rating": "8.0",
+ "color": "red"
+},
+
+{"_id":"8",
+ "mountain_id":"1",
+ "name": "Olimpijski ski lift",
+ "length_km": "1.4",
+ "rating": "9.5",
+ "color": "black"
+},
+
+{"_id":"9",
+ "mountain_id":"1",
+ "name": "Ogorjelica",
+ "length_km": "1.4",
+ "rating": "9.5",
+ "color": "red"
+},
+
+{"_id":"10",
+ "mountain_id":"1",
+ "name": "Praca",
+ "length_km": "0.8",
+ "rating": "8.8",
+ "color": "red"
+},
+
+{"_id":"11",
+ "mountain_id":"2",
+ "name": "Zvoh",
+ "length_km": "1.7",
+ "rating": "7.9",
+ "color": "red"
+},
+
+{"_id":"12",
+ "mountain_id":"2",
+ "name": "Dom - Kriska planina",
+ "length_km": "0.7",
+ "rating": "6.5",
+ "color": "blue"
+},
+
+{"_id":"13",
+ "mountain_id":"2",
+ "name": "neteptani Zvoh (freeride)",
+ "length_km": "1.8",
+ "rating": "7.7",
+ "color": "black"
+},
+
+{"_id":"14",
+ "mountain_id":"2",
+ "name": "Hanek",
+ "length_km": "0.7",
+ "rating": "6.3",
+ "color": "red"
+},
+
+{"_id":"15",
+ "mountain_id":"2",
+ "name": "Vrh Krvavca - Gradisce - Tiha dolina",
+ "length_km": "2.0",
+ "rating": "9.2",
+ "color": "blue"
+}
+]

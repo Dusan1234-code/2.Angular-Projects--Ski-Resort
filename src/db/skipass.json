@@ -1,0 +1,107 @@
+[
+
+{"_id": "0",
+"mountain_id": "0",
+"duration": "1",
+"price": "3200"},
+
+{"_id": "1",
+"mountain_id": "0",
+"duration": "2",
+"price": "5990"},
+
+{"_id": "2",
+"mountain_id": "0",
+"duration": "3",
+"price": "8590"},
+
+{"_id": "3",
+"mountain_id": "0",
+"duration": "4",
+"price": "10710"},
+
+{"_id": "4",
+"mountain_id": "0",
+"duration": "5",
+"price": "12480"},
+
+{"_id": "5",
+"mountain_id": "0",
+"duration": "6",
+"price": "14320"},
+
+{"_id": "6",
+"mountain_id": "0",
+"duration": "7",
+"price": "15910"},
+
+{"_id": "7",
+"mountain_id": "1",
+"duration": "1",
+"price": "2482"},
+
+{"_id": "8",
+"mountain_id": "1",
+"duration": "2",
+"price": "4095"},
+
+{"_id": "9",
+"mountain_id": "1",
+"duration": "3",
+"price": "6205"},
+
+{"_id": "10",
+"mountain_id": "1",
+"duration": "4",
+"price": "7571"},
+
+{"_id": "11",
+"mountain_id": "1",
+"duration": "5",
+"price": "9178"},
+
+{"_id": "12",
+"mountain_id": "1",
+"duration": "6",
+"price": "10760"},
+
+{"_id": "13",
+"mountain_id": "1",
+"duration": "7",
+"price": "11900"},
+
+{"_id": "14",
+"mountain_id": "2",
+"duration": "1",
+"price": "3971"},
+
+{"_id": "15",
+"mountain_id": "2",
+"duration": "2",
+"price": "7571"},
+
+{"_id": "16",
+"mountain_id": "2",
+"duration": "3",
+"price": "10549"},
+
+{"_id": "17",
+"mountain_id": "2",
+"duration": "4",
+"price": "11542"},
+
+{"_id": "18",
+"mountain_id": "2",
+"duration": "5",
+"price": "13625"},
+
+{"_id": "19",
+"mountain_id": "2",
+"duration": "6",
+"price": "15886"},
+
+{"_id": "20",
+"mountain_id": "2",
+"duration": "7",
+"price": "17748"}
+]

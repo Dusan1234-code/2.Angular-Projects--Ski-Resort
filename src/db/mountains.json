@@ -1,0 +1,30 @@
+[
+
+{"_id": "0",
+ "name": "Kopaonik",
+ "description": "Kopaonik is one of the larger mountain ranges of Serbia and Kosovo. It is located in the central part of Serbia and the northern parts of Kosovo. Its highest point, Pancic's Peak, is 2,017 m (6,617 ft) above sea level and is located on the border between the two countries. Kopaonik is the major ski resort of Serbia, and after Bulgaria's Bansko, largest in Southeast Europe. There are 25 ski lifts with capacity of 32,000 skiers per hour. A national park spread over 118.1 km2 (45.6 sq mi) of the central part of the Kopaonik plateau was established in 1981.",
+ "country": "Serbia",
+ "highest_point": "Pancic's Peak",
+ "top_elevation_m": "2017",
+ "base_elevation_m": "1770",
+ "picture": "assets/images/mountain/kopaonik.jpg"},
+
+ {"_id": "1",
+ "name": "Jahorina",
+ "description": "Jahorina is a mountain in Bosnia and Herzegovina, located near Pale in the Dinaric Alps. It borders Mount Trebevic, another Olympic mountain. Jahorina's highest peak, Ogorjelica, has a summit elevation of 1,916 metres (6,286 ft), making it the second-highest of Sarajevo's mountains, after Bjelasnica at 2,067 m (6,781 ft). Mount Jahorina hosted the women's alpine skiing events of the 1984 Winter Olympics. Jahorina is located 15 km (9.3 mi) from Pale and 30 km (19 mi) from Sarajevo. The international airport in Sarajevo is located 33 km (21 mi) from Jahorina, connected with the ski resort by a new motorway.",
+ "country": "Bosnia and Herzegovina",
+ "highest_point": "Ogorjelica",
+ "top_elevation_m": "1916",
+ "base_elevation_m": "1300",
+ "picture": "assets/images/mountain/jahorina.jpg"},
+
+ {"_id": "2",
+ "name": "Krvavec",
+ "description": "The Krvavec Ski Resort is the second-largest Slovenian ski resort, located in the Municipality of Cerklje na Gorenjskem in the Kamnik–Savinja Alps. The nearest city is Kranj and it is 25 km from Ljubljana. The resort is located 10 km from Ljubljana Joze Pucnik Airport and it is the nearest ski resort to an international airport in Europe. It has a total 30 km of ski slopes. Today 95% of skiable area is covered with artificial snow.",
+ "country": "Slovenia",
+ "highest_point": "Krvavec",
+ "top_elevation_m": "1971",
+ "base_elevation_m": "1450",
+ "picture": "assets/images/mountain/krvavec.jpg"}
+
+]

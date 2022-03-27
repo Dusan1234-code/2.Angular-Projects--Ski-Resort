@@ -1,0 +1,211 @@
+[
+{
+"_id": "0",
+"mountain_id": "0",
+"date": "2017-03-22T17:30:55.588Z",
+"temperature_min": "4",
+"temperature_max": "12",
+"wind": "3",
+"outlook": "cloudy" 
+},
+
+{
+"_id": "1",
+"mountain_id": "0",
+"date": "2017-03-23T17:30:55.588Z",
+"temperature_min": "5",
+"temperature_max": "18",
+"wind": "1.4",
+"outlook": "rainy" 
+},
+
+{
+"_id": "2",
+"mountain_id": "0",
+"date": "2017-03-24T17:30:55.588Z",
+"temperature_min": "6",
+"temperature_max": "19",
+"wind": "1.7",
+"outlook": "sunny"
+},
+
+{
+"_id": "3",
+"mountain_id": "0",
+"date": "2017-03-25T17:30:55.588Z",
+"temperature_min": "0",
+"temperature_max": "4",
+"wind": "1.2",
+"outlook": "snowy" 
+},
+
+{
+"_id": "4",
+"mountain_id": "0",
+"date": "2017-03-26T17:30:55.588Z",
+"temperature_min": "-1",
+"temperature_max": "2",
+"wind": "1.7",
+"outlook": "snowy"
+},
+
+{
+"_id": "5",
+"mountain_id": "0",
+"date": "2017-03-27T17:30:55.588Z",
+"temperature_min": "-2",
+"temperature_max": "0",
+"wind": "1.6",
+"outlook": "snowy"
+},
+
+{
+"_id": "6",
+"mountain_id": "0",
+"date": "2017-03-28T17:30:55.588Z",
+"temperature_min": "-4",
+"temperature_max": "9",
+"wind": "0.9",
+"outlook": "cloudy"
+},
+
+{
+"_id": "7",
+"mountain_id": "1",
+"date": "2017-03-22T17:30:55.588Z",
+"temperature_min": "-4",
+"temperature_max": "12",
+"wind": "1.1",
+"outlook": "sunny"
+},
+
+{
+"_id": "8",
+"mountain_id": "1",
+"date": "2017-03-23T17:30:55.588Z",
+"temperature_min": "-3",
+"temperature_max": "12",
+"wind": "1.4",
+"outlook": "cloudy" 
+},
+
+{
+"_id": "9",
+"mountain_id": "1",
+"date": "2017-03-24T17:30:55.588Z",
+"temperature_min": "-4",
+"temperature_max": "12",
+"wind": "1.9",
+"outlook": "rainy"
+},
+
+{
+"_id": "10",
+"mountain_id": "1",
+"date": "2017-03-25T17:30:55.588Z",
+"temperature_min": "-5",
+"temperature_max": "7",
+"wind": "2.0",
+"outlook": "snowy"
+},
+
+{
+"_id": "11",
+"mountain_id": "1",
+"date": "2017-03-26T17:30:55.588Z",
+"temperature_min": "-5",
+"temperature_max": "5",
+"wind": "1.9",
+"outlook": "snowy"
+},
+
+{
+"_id": "12",
+"mountain_id": "1",
+"date": "2017-03-27T17:30:55.588Z",
+"temperature_min": "-5",
+"temperature_max": "2",
+"wind": "1.6",
+"outlook": "snowy" 
+},
+
+{
+"_id": "13",
+"mountain_id": "1",
+"date": "2017-03-28T17:30:55.588Z",
+"temperature_min": "-4",
+"temperature_max": "3",
+"wind": "1.1",
+"outlook": "cloudy"
+},
+
+{
+"_id": "14",
+"mountain_id": "2",
+"date": "2017-03-22T17:30:55.588Z",
+"temperature_min": "2",
+"temperature_max": "12",
+"wind": "0.9",
+"outlook": "cloudy" 
+},
+
+{
+"_id": "15",
+"mountain_id": "2",
+"date": "2017-03-23T17:30:55.588Z",
+"temperature_min": "1",
+"temperature_max": "10",
+"wind": "1.1",
+"outlook": "cloudy" 
+},
+
+{
+"_id": "16",
+"mountain_id": "2",
+"date": "2017-03-24T17:30:55.588Z",
+"temperature_min": "0",
+"temperature_max": "8",
+"wind": "1.0",
+"outlook": "cloudy" 
+},
+
+{
+"_id": "17",
+"mountain_id": "2",
+"date": "2017-03-25T17:30:55.588Z",
+"temperature_min": "-2",
+"temperature_max": "5",
+"wind": "1.5",
+"outlook": "rainy" 
+},
+
+{
+"_id": "18",
+"mountain_id": "2",
+"date": "2017-03-26T17:30:55.588Z",
+"temperature_min": "-3",
+"temperature_max": "2",
+"wind": "1.6",
+"outlook": "rainy" 
+},
+
+{
+"_id": "19",
+"mountain_id": "2",
+"date": "2017-03-27T17:30:55.588Z",
+"temperature_min": "-4",
+"temperature_max": "0",
+"wind": "1.4",
+"outlook": "snowy" 
+},
+
+{
+"_id": "20",
+"mountain_id": "2",
+"date": "2017-03-28T17:30:55.588Z",
+"temperature_min": "-3",
+"temperature_max": "4",
+"wind": "1.1",
+"outlook": "sunny" 
+}
+]
