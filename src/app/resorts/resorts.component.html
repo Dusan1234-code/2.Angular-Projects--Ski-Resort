@@ -1,0 +1,23 @@
+<div class="row">
+  <div class="col-3">
+    <img src="{{ resorts.picture }}" height="250px" width="100%" alt="" />
+  </div>
+  <div class="col-9">
+    <h3>{{ resorts.name }}</h3>
+    <p>{{ resorts.country }}</p>
+    <p>{{ resorts.description }}</p>
+    <p>Elevation: {{ resorts.base_elevation_m }}</p>
+    <p>Highest Point: {{ resorts.highest_point }}</p>
+    <p>Top elevation: {{ resorts.top_elevation_m }}</p>
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+    <app-details
+      [track]="tracks"
+      (emmiter)="sortAllTracks($event)"
+      [weather]="weathers"
+      [skipass]="skipasses"
+    ></app-details>
+  </div>
+</div>

@@ -1,0 +1,111 @@
+<ul ngbNav #nav="ngbNav" [(activeId)]="active" class="nav-tabs">
+  <li [ngbNavItem]="1">
+    <a ngbNavLink>Tracks</a>
+    <ng-template ngbNavContent>
+      <div class="row">
+        <div class="col-3">
+          <h4>Name</h4>
+          <ul *ngFor="let tr of track">
+            <li [ngStyle]="{ color: tr.color }">{{ tr.name }}</li>
+          </ul>
+        </div>
+        <div class="col-2">
+          <h4>Length</h4>
+          <ul *ngFor="let tr of track">
+            <li [ngStyle]="{ color: tr.color }">{{ tr.length_km }}km</li>
+          </ul>
+        </div>
+        <div class="col-2">
+          <h4>Rating</h4>
+          <ul *ngFor="let tr of track">
+            <li [ngStyle]="{ color: tr.color }">{{ tr.rating }}</li>
+          </ul>
+        </div>
+        <div class="col">
+          <select (change)="sortTracks($event)">
+            <option value="rating">Rating</option>
+            <option value="length_km">Length</option>
+          </select>
+        </div>
+      </div>
+    </ng-template>
+  </li>
+  <li [ngbNavItem]="2">
+    <a ngbNavLink>Weather</a>
+    <ng-template ngbNavContent>
+      <div class="row">
+        <div class="col-2" *ngFor="let weat of weather">
+          <h4>{{ weat.date | date }}</h4>
+          <img
+            src="assets/images/weather/{{ weat.outlook }}.png"
+            width="100%"
+            alt="weather pics"
+          />
+          <p>Min: {{ weat.temperature_min }} &#8451;</p>
+          <p>Max: {{ weat.temperature_max }} &#8451;</p>
+          <p>Wind: {{ weat.wind }} km/h</p>
+        </div>
+      </div>
+    </ng-template>
+  </li>
+  <li [ngbNavItem]="3">
+    <a ngbNavLink>Ski-pass</a>
+    <ng-template ngbNavContent>
+      <div class="row">
+        <div class="col-4">
+          <table class="table">
+            <thead>
+              <tr>
+                <th scope="col">Days</th>
+                <th scope="col">Price</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let ski of skipass">
+                <td>{{ ski.duration }}</td>
+                <td>{{ ski.price }}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="col-8">
+          <form [formGroup]="formGroup" (submit)="onSubmit()">
+            <div class="form-group">
+              <label for="exampleInputEmail1">Email address</label>
+              <input
+                type="email"
+                class="form-control"
+                id="exampleInputEmail1"
+                aria-describedby="emailHelp"
+                placeholder="Enter email"
+                name="email"
+                formControlName="email"
+              />
+            </div>
+            <div class="form-group">
+              <label for="exampleInputPassword1">Name</label>
+              <input
+                type="name"
+                class="form-control"
+                id="exampleInputPassword1"
+                placeholder="Enter name"
+                name="name"
+                formControlName="name"
+              />
+            </div>
+
+            <button
+              type="submit"
+              class="btn btn-primary"
+              [disabled]="formGroup.invalid"
+            >
+              Submit
+            </button>
+          </form>
+        </div>
+      </div>
+    </ng-template>
+  </li>
+</ul>
+
+<div [ngbNavOutlet]="nav" class="mt-2"></div>
